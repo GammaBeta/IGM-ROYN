@@ -3,3 +3,7 @@ Let's make a game!
   author: GammaRaul
   desc: An Idle game based on ROYN, the 8-bit choose-your-own-adventure fantasy webseries by Planet Bobstar where the Top Comment decides what happens next.
 
+Settings
+  background: https://cdn.discordapp.com/attachments/769749077469954079/986614921938763816/Meneseria.png
+  building cost increase: 125%
+  building cost refund: 75%
